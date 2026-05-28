@@ -92,11 +92,36 @@ Complex multi-join conversion query.
 
 <img src="https://github.com/user-attachments/assets/8e0d497e-3c83-4326-8217-4932d0b74ede" alt="Conversion Query 6" width="600"/>
 
+## Backup and Recovery
+
+This section covers database backup and recovery strategies using SQL joins:
+
+### 1. **Backup Strategy**
+Query for backing up database records using joins.
+
+<img src="https://github.com/user-attachments/assets/e96d9d93-5149-4f94-892f-f5f5722fc8d4" alt="Backup Strategy Query" width="600"/>
+
+### 2. **Recovery Method**
+Query for recovering data using joins.
+
+<img src="https://github.com/user-attachments/assets/62c6e2fe-1b8d-43f8-868f-62c3ae874b12" alt="Recovery Method Query" width="600"/>
+
+### 3. **Backup Verification**
+Comprehensive query for verifying backup integrity with multiple joins.
+
+<img src="https://github.com/user-attachments/assets/8c9d49f3-515c-4dac-87d9-786964f355dc" alt="Backup Verification Query" width="600"/>
+
+### 4. **Data Restoration**
+Query for restoring data with validation using joins.
+
+<img src="https://github.com/user-attachments/assets/8d0aff8e-0411-4fa0-ac46-aae380b36e3a" alt="Data Restoration Query" width="600"/>
+
 ## How to Use
 - Study each join type with its corresponding diagram
 - Practice writing SQL queries using different join types
 - Review the data analysis examples to see joins in action
 - Learn data type conversions with the conversion queries
+- Understand backup and recovery procedures with real examples
 - Refer back to the diagrams when needed
 
 ## Resources
