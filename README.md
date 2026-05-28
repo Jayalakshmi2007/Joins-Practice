@@ -58,10 +58,45 @@ Query to calculate average order values.
 
 <img src="https://github.com/user-attachments/assets/2c3fe5b3-e257-4d39-9233-4a77441514fb" alt="Average Orders Query" width="400"/>
 
+## Conversion Queries
+
+This section demonstrates conversion and data type transformation queries using joins:
+
+### 1. **Data Conversion Example 1**
+Query demonstrating data type conversion in joins.
+
+<img src="https://github.com/user-attachments/assets/64a34434-d15a-4491-bb80-d9b7d2c6f3e9" alt="Conversion Query 1" width="600"/>
+
+### 2. **Data Conversion Example 2**
+Query showcasing date and numerical conversions.
+
+<img src="https://github.com/user-attachments/assets/5f15fb55-c66f-4644-8571-ce0a047821a3" alt="Conversion Query 2" width="600"/>
+
+### 3. **Data Conversion Example 3**
+Query demonstrating string and number conversions in joins.
+
+<img src="https://github.com/user-attachments/assets/3ef2ff25-51df-4b36-942e-d451f704ba3d" alt="Conversion Query 3" width="600"/>
+
+### 4. **Data Conversion Example 4**
+Query for handling type conversions in complex joins.
+
+<img src="https://github.com/user-attachments/assets/4d103daf-eecf-44e4-a4dd-aa4e6d0fe84e" alt="Conversion Query 4" width="600"/>
+
+### 5. **Data Conversion Example 5**
+Advanced conversion query using multiple joins.
+
+<img src="https://github.com/user-attachments/assets/22962e47-f006-48f6-b2b7-d97eab39c30e" alt="Conversion Query 5" width="600"/>
+
+### 6. **Data Conversion Example 6**
+Complex multi-join conversion query.
+
+<img src="https://github.com/user-attachments/assets/8e0d497e-3c83-4326-8217-4932d0b74ede" alt="Conversion Query 6" width="600"/>
+
 ## How to Use
 - Study each join type with its corresponding diagram
 - Practice writing SQL queries using different join types
 - Review the data analysis examples to see joins in action
+- Learn data type conversions with the conversion queries
 - Refer back to the diagrams when needed
 
 ## Resources
